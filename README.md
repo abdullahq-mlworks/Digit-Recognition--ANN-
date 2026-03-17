@@ -68,9 +68,9 @@ pip install -r requirements.txt
 ---
 
 ## 🚀 Future Work
-Implement CNN for improved performance
-Hyperparameter tuning
-Model deployment (Streamlit / Flask)
-Real-time digit recognition
+- Implement CNN for improved performance
+- Hyperparameter tuning
+- Model deployment (Streamlit / Flask)
+- Real-time digit recognition
 
 ---
